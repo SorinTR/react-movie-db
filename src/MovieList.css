@@ -1,0 +1,13 @@
+.movies-container {
+    padding: 10px;
+}
+
+.movie-list {
+    padding: 10px;
+}
+
+
+.movie-item {
+    width: 300px;
+    box-shadow: 2px 2px 2px 2px black;
+}
